@@ -16,10 +16,28 @@ I'm also a huge logic and puzzles nerd - do check out my repositories on [Sudoku
 <br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Fish-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Library-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-Opencv-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Technology-Pygame-informational?style=flat&&color=2bbc8a)
+
+![](https://img.shields.io/badge/Library-Web3.js-informational?style=flat&logo=web3dotjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-Geth-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-Truffle-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
+
 
 <br>
 <!-- 
